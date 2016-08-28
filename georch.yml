@@ -59,7 +59,7 @@
     - profile-developer
 
   vars:
-    - computername: iMac-georch
+    - computername: iMac georch
     - git_user_name: Jorge Valdez
     - git_user_email: georch@gmail.com
     - php_version: 70
